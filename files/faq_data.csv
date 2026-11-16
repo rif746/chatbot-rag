@@ -1,0 +1,18 @@
+Kategori,Pertanyaan,Jawaban
+"Pengiriman","Berapa lama estimasi pengiriman barang reguler?","Pengiriman reguler memakan waktu 2 hingga 4 hari kerja untuk wilayah Pulau Jawa, dan 4 hingga 7 hari kerja untuk luar Pulau Jawa."
+"Pengiriman","Apakah tersedia layanan pengiriman kilat atau sameday?","Ya, kami menyediakan layanan pengiriman kilat (1-2 hari kerja) serta pengiriman Sameday khusus untuk area Jabodetabek jika pesanan dilakukan sebelum pukul 14.00 WIB."
+"Pengiriman","Bagaimana cara melacak posisi paket saya?","Anda dapat melacak paket secara real-time melalui menu Pesanan Saya, lalu klik tombol Lacak Pengiriman untuk melihat nomor resi dan status kurir."
+"Pengiriman","Apa yang harus dilakukan jika paket belum sampai melewati batas estimasi?","Jika paket terlambat lebih dari 2 hari kerja dari estimasi, silakan hubungi tim layanan pelanggan kami dengan menyertakan nomor pesanan agar kami bantu investigasi ke pihak ekspedisi."
+"Pembayaran","Metode pembayaran apa saja yang didukung?","Kami menerima pembayaran melalui transfer bank Virtual Account (BCA, Mandiri, BNI, BRI), kartu kredit Visa/Mastercard, gerai ritel (Alfamart/Indomaret), serta dompet digital (GoPay, OVO, Dana, ShopeePay)."
+"Pembayaran","Apakah bisa membayar di tempat saat barang sampai (COD)?","Layanan Bayar di Tempat (COD) tersedia untuk pembelian maksimal Rp 2.000.000 di seluruh wilayah yang dijangkau oleh kurir mitra kami."
+"Pembayaran","Berapa lama batas waktu penyelesaian pembayaran?","Batas waktu pembayaran untuk Virtual Account dan gerai ritel adalah 24 jam setelah pesanan dibuat. Untuk dompet digital, batas waktunya adalah 15 menit."
+"Pembayaran","Mengapa pembayaran saya gagal padahal saldo sudah terpotong?","Gangguan jaringan bank terkadang menyebabkan keterlambatan konfirmasi. Mohon tunggu maksimal 1x24 jam untuk verifikasi otomatis, atau kirimkan bukti transfer ke layanan pelanggan kami."
+"Pengembalian","Bagaimana syarat dan cara mengajukan pengembalian barang (retur)?","Pengajuan retur dapat dilakukan melalui menu Pesanan Saya maksimal 3x24 jam setelah barang diterima. Anda wajib melampirkan video unboxing tanpa jeda yang memperlihatkan kerusakan atau ketidaksesuaian produk."
+"Pengembalian","Siapa yang menanggung ongkos kirim pengembalian barang?","Jika pengembalian disebabkan oleh kesalahan kami atau barang cacat produksi, seluruh ongkos kirim akan kami tanggung 100%. Namun jika karena perubahan pikiran pembeli, ongkos kirim ditanggung oleh pembeli."
+"Pengembalian","Berapa lama proses pengembalian dana (refund) setelah barang diretur?","Dana akan dikembalikan maksimal 3 hari kerja setelah barang retur kami terima dan lolos proses pengecekan kualitas oleh tim gudang."
+"Pesanan","Apakah saya bisa membatalkan pesanan yang sudah dibayar?","Pesanan yang sudah dibayar hanya dapat dibatalkan selama statusnya masih Diproses dan belum diserahkan ke pihak kurir. Klik tombol Batalkan Pesanan di halaman detail transaksi."
+"Pesanan","Bisakah saya mengubah alamat pengiriman setelah pesanan dibuat?","Perubahan alamat pengiriman tidak dapat dilakukan setelah pesanan terkonfirmasi. Anda disarankan membatalkan pesanan terlebih dahulu (jika belum dikirim) lalu membuat pesanan baru dengan alamat yang benar."
+"Garansi","Apakah produk elektronik mendapatkan garansi resmi?","Semua produk elektronik yang kami jual dilengkapi garansi resmi distributor selama 1 tahun dan garansi toko selama 7 hari untuk tukar unit baru jika terjadi cacat pabrik."
+"Garansi","Bagaimana cara mengklaim garansi jika produk rusak setelah beberapa bulan?","Anda dapat membawa produk beserta kartu garansi dan bukti invoice pembelian dari aplikasi kami langsung ke pusat servis (service center) resmi terdekat."
+
+

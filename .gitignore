@@ -1,0 +1,4 @@
+.venv/
+.nix-python
+files/*.db
+__pycache__/
